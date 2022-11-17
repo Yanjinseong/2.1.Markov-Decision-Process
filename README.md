@@ -8,4 +8,5 @@
 
 
 참조 : <혁펜하임 [강화학습] 2-1강. Markov Decision Process (MDP) 쉬운 설명>
+
 (https://www.youtube.com/watch?v=DbbcaspZATg&list=PL_iJu012NOxehE8fdF9me4TLfbdv3ZW8g&index=3)
