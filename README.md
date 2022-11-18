@@ -7,6 +7,8 @@
 
 <img src="https://user-images.githubusercontent.com/68425309/201953580-e4fbc861-e6f3-4851-9835-2dd7a515b6d0.jpg" width="700" height="500"/> 
 
+- policy(정책) : 어떤 상태(s)에서 어떤 행동(a)을 할지
+- transision probability (이동 가능성)
 
 참조 : <혁펜하임 [강화학습] 2-1강. Markov Decision Process (MDP) 쉬운 설명>
 
